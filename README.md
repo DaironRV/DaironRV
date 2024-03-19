@@ -6,7 +6,7 @@
 - 🎨 Pintor de líneas de código en lenguajes abstractos.
 - 🤖 Amante de los robots y las llaves SSH.
 
-qui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender más
+qui puedes apreciar algunas de  mis habilidades y estoy abierto a aprender más
 
 # Tecnologias
 
