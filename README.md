@@ -1,7 +1,7 @@
 # Hola, soy Dairon 🖖
 
 ## Acerca de mí
-- 🌮 Desarrollador de código y tacos.
+- 🥟 Desarrollador de código y empanadas.
 - 🎮 Jugador profesional de "Resolver Errores".
 - 🎨 Pintor de líneas de código en lenguajes abstractos.
 - 🤖 Amante de los robots y las llaves SSH.
