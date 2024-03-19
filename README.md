@@ -58,12 +58,9 @@ qui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender 
 
 [![linkedin](https://www.linkedin.com/in/dairon-rodriguez-a3615628b/)
 
-## 🏆 GitHub Trophies
-
-
-
 <hr>
 <h1 align="center">✍️ Citas DEV Random</h1>
+## 🏆 GitHub Trophies
 
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/131011899?s=400&u=05a55d8a7f73a4b1b716e25aa278a3eceeeca5f5&v=4" width="512px" alt="CITA"/>
