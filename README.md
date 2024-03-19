@@ -61,11 +61,9 @@ Linkedin:![linkedin](https://www.linkedin.com/in/dairon-rodriguez-a3615628b/)
 
 ## 🏆 GitHub Trophies
 
-
-<img src="https://avatars.githubusercontent.com/u/131011899?s=400&u=05a55d8a7f73a4b1b716e25aa278a3eceeeca5f5&v=4" width="512px" alt="CITA"/>
-
-
-
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/131011899?s=400&u=05a55d8a7f73a4b1b716e25aa278a3eceeeca5f5&v=4" width="200" alt="Imagen de a yo"/>
+</div>
 
 
 
