@@ -1,4 +1,4 @@
-# Hola, soy {TuNombre}
+# Hola, soy Dairon 🖖
 
 ## Acerca de mí
 - 🌮 Desarrollador de código y tacos.
@@ -60,18 +60,18 @@ qui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender 
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=TheLostHeaven&theme=apprentice&no-frame=true&no-bg=true&margin-w=4)
+
 
 <hr>
 <h1 align="center">✍️ Citas DEV Random</h1>
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=dark" width="512px" alt="CITA"/>
+<img src="https://avatars.githubusercontent.com/u/131011899?s=400&u=05a55d8a7f73a4b1b716e25aa278a3eceeeca5f5&v=4" width="512px" alt="CITA"/>
 </div>
 
 
 <a href="https://github.com/TheLostHeaven/TheLostHeaven/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=TheLostHeaven/TheLostHeaven"/>
+  <img src="[https://contrib.rocks/image?repo=TheLostHeaven/TheLostHeaven](https://avatars.githubusercontent.com/u/131011899?s=400&u=05a55d8a7f73a4b1b716e25aa278a3eceeeca5f5&v=4)https://avatars.githubusercontent.com/u/131011899?s=400&u=05a55d8a7f73a4b1b716e25aa278a3eceeeca5f5&v=4"/>
 </a>
 
 
