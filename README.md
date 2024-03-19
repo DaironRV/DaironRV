@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hola, soy {TuNombre}
 
-<!--
-**DaironRV/DaironRV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de mí
+- 🌮 Desarrollador de código y tacos.
+- 🎮 Jugador profesional de "Resolver Errores".
+- 🎨 Pintor de líneas de código en lenguajes abstractos.
+- 🤖 Amante de los robots y las llaves SSH.
 
-Here are some ideas to get you started:
+## Habilidades
+- 🚀 Lanzamiento de commits al infinito y más allá.
+- 🌈 Creación de ramas como si fueran arcoíris.
+- 🎶 Escuchar música de compilación mientras compilo código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos Destacados
+- 🍌 BananaJS: Un framework para desarrollar aplicaciones web con sabor a banana.
+- 🌮 TacoBot: Un bot que responde a todos los problemas con "¿Has probado reiniciar el servidor?".
+
+## Contacto
+- 📧 Correo electrónico: tunombre@github.com
+- 🐦 Twitter: @tunombre
+
+¡No olvides seguir construyendo y nunca dejes de aprender! 🚀
