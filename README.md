@@ -54,16 +54,20 @@ qui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender 
 
 ## Contacto
 - 📧 Correo electrónico: Dairon.rodriguezvgea@gmail.com
+- 📧 Linkedin: (https://www.linkedin.com/in/dairon-rodriguez-a3615628b/)
 
-Linkedin:![linkedin](https://www.linkedin.com/in/dairon-rodriguez-a3615628b/)
+
 
 
 
 ## 🏆 GitHub Trophies
 
+<br>
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/131011899?s=400&u=05a55d8a7f73a4b1b716e25aa278a3eceeeca5f5&v=4" width="200" alt="Imagen de a yo"/>
+  <img src="https://avatars.githubusercontent.com/u/131011899?s=400&u=05a55d8a7f73a4b1b716e25aa278a3eceeeca5f5&v=4" width="200" alt="Descripción de la imagen" style="border-radius: 50%;">
 </div>
+<br>
+
 
 
 
