@@ -16,7 +16,7 @@ Aqui puedes apreciar algunas de  mis habilidades y estoy abierto a aprender más
 
 ## Contacto
 - 📧 Correo electrónico: Dairon.rodriguezvgea@gmail.com
-- 📧 Linkedin: (https://www.linkedin.com/in/dairon-rodriguez-a3615628b/)
+- 📧 Linkedin: https://www.linkedin.com/in/dairon-rodriguez-a3615628b/
 
 
 ## 🏆 GitHub Trophies
