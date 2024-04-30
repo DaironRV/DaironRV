@@ -1,5 +1,5 @@
 # Hola, soy Dairon 🖖
-> 🧑‍🚀 **Listo para la camba** Programar es divertido!
+> 🧑‍🚀 **Listo para la chamba** Programar es divertido!
 ## Acerca de mí
 - 🥟 Desarrollador de código y empanadas.
 - 🎮 Jugador profesional de "Resolver Errores".
@@ -17,6 +17,7 @@ Aqui puedes apreciar algunas de  mis habilidades y estoy abierto a aprender más
 ## Contacto
 - 📧 Correo electrónico: Dairon.rodriguezvgea@gmail.com
 - 📧 Linkedin: https://www.linkedin.com/in/dairon-rodriguez-a3615628b/
+- 🎨 Porfolio web: 
 
 
 ## 🏆 GitHub Trophies
